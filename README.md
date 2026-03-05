@@ -32,6 +32,5 @@ Estos son algunos de los proyectos en los que he trabajado para fortalecer mi ex
 Siempre estoy abierto a colaborar en nuevos proyectos o discutir temas técnicos:
 
 - 📧 **Correo electrónico:** assnyabed2@gmail.com
-- 🔗 **LinkedIn:** [Añade aquí el enlace a tu perfil]
 
 *¡Siempre listo para construir algo nuevo!*
