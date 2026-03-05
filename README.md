@@ -1,16 +1,37 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Abed Al Rahman
+Desarrollador Web Full-Stack apasionado por crear soluciones digitales que combinan diseño funcional y alto rendimiento.
 
-<!--
-**Abed-Assny/Abed-Assny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛠 Tecnologías y Habilidades
+Cuento con un conjunto de habilidades que me permiten desarrollar proyectos desde cero hasta su implementación:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Front-end:** HTML5, CSS3, JavaScript.
+- **Back-end:** PHP.
+- **Bases de datos:** MySQL (diseño, gestión y consultas).
+- **Herramientas:** Git & GitHub, VS Code.
+- **Soporte Técnico:** Mantenimiento de hardware, instalación de software y gestión de redes (experiencia práctica en sistemas Windows).
+
+---
+
+### 🚀 Mis Proyectos
+Estos son algunos de los proyectos en los que he trabajado para fortalecer mi experiencia:
+
+* **[Portfolio-Abed-full-stack](https://github.com/Abed-Assny/Portfolio-Abed-full-stack):** Portafolio profesional desarrollado con PHP, JavaScript y MySQL. Cuenta con un diseño moderno y soporte para modo oscuro (Dark Mode).
+* **[Web Development Projects](https://github.com/Abed-Assny/web):** Repositorio que contiene diversos experimentos y aplicaciones web creadas con HTML, CSS y JavaScript para fortalecer mis fundamentos técnicos.
+
+---
+
+### 📈 Estadísticas de GitHub
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abed-Assny&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abed-Assny&layout=compact&theme=radical)
+
+---
+
+### 📬 Contacto
+Siempre estoy abierto a colaborar en nuevos proyectos o discutir temas técnicos:
+
+- 📧 **Correo electrónico:** assnyabed2@gmail.com
+- 🔗 **LinkedIn:** [Añade aquí el enlace a tu perfil]
+
+*¡Siempre listo para construir algo nuevo!*
