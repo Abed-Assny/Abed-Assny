@@ -6,9 +6,7 @@ Desarrollador Web Full-Stack apasionado por crear soluciones digitales que combi
 ### 🛠 Tecnologías y Habilidades
 Cuento con un conjunto de habilidades que me permiten desarrollar proyectos desde cero hasta su implementación:
 
-- **Front-end:** HTML5, CSS3, JavaScript.
-- **Back-end:** PHP.
-- **Bases de datos:** MySQL (diseño, gestión y consultas).
+- **Front-end:** HTML5, CSS3, JavaScript, Gsap.
 - **Herramientas:** Git & GitHub, VS Code.
 - **Soporte Técnico:** Mantenimiento de hardware, instalación de software y gestión de redes (experiencia práctica en sistemas Windows).
 
